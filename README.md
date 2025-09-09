@@ -6,7 +6,7 @@ Jelenleg a Budapesti Műszaki és Gazdaságtudományi Egyetem mérnökinformatik
 - Adatbázisok: Oracle, MySQL  
 - Fejlesztői eszközök: Visual Studio, JetBrains Java IDE, Visual Studio Code  
 - Csapatmunka: többfős egyetemi projektek (pl. Java grafikus multiplayer játék), e-sport tapasztalat  
-- Projektek: OpenMetroCLI – új funkciók implementálása és tesztelése, dokumentáció  
+- Projektek: OpenMetroCLI – új funkciók implementálása és tesztelése
 
 ## Cél
 Az egyetemi tanulmányok mellett szeretném bővíteni gyakorlati tapasztalataimat, különösen szoftverfejlesztés, tesztelés és csapatmunkában való részvétel terén.
